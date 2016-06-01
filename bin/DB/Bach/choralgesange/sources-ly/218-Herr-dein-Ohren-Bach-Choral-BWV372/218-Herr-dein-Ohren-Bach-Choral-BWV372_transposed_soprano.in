@@ -1,0 +1,19 @@
+c' c' b c' |
+d' ees' d'2 |
+\set Timing . measureLength = #(ly:make-moment 1 2 0 1)
+c' \
+\break ees'4 d' |
+\set Timing . measureLength = #(ly:make-moment 1 1 0 1)
+c' ees' d' c' |
+b2 \ bes4 aes |
+g c' c' b |
+\break c'2 \ ees'4 f' |
+g' g' f' ees' |
+f'2 ees' \ |
+\break ees'4 f' g' g' |
+f' ees' f'2 |
+ees' \ ees'4 d' |
+\break c' ees' d' c' |
+b2 \ bes4 aes |
+g c' c' b |
+c'2 \ 

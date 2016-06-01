@@ -1,0 +1,20 @@
+c' e' g'4. g'8 |
+g'4 g' a'2 |
+g' \ r4 g' |
+c'' g' c''8 d'' e''4 |
+d'' c'' b' a' |
+g'2 \ r4 g' |
+c'' g' a' e' |
+f'8 e' d'4
+\alternative   c'2 \   \set Timing . measureLength = #(ly:make-moment 1 2 0 1)
+c'4 \ g' |
+\set Timing . measureLength = #(ly:make-moment 1 1 0 1)
+g'4. f'8 e'4 d' |
+c'2 \ r4 g' |
+g'4. f'8 e'4 d' |
+c'2 \ r4 d' |
+e' f' e' \ g' |
+a' b' c'' \ c''8 d'' |
+e''4 d'' c'' \ g' |
+c'' g' a' e' |
+f'8 e' d'4 c'2 \ |

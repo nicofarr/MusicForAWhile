@@ -1,0 +1,8 @@
+g' |
+fis' g'8 a' bes'4 c'' |
+bes' a' g' \ g' |
+ees' f' g' f'8 ees' |
+d' c' d'4
+\alternative   \set Timing . measureLength = #(ly:make-moment 1 4 0 1)
+c' \   \set Timing . measureLength = #(ly:make-moment 1 2 0 1)
+c'2 \ 

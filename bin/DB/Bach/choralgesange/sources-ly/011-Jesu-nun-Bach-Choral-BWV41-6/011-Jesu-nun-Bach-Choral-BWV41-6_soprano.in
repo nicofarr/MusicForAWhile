@@ -1,0 +1,47 @@
+e4 |
+e4 c d e |
+f2 d4 \ d |
+d4 c c b |
+c2 \ r4 d4 |
+d4 d d e |
+c2 c4 \ c |
+b4 c d d |
+c2. \  
+\break
+b4 |
+b4 b b b |
+c2 c4 \ b |
+b4 b b b |
+c2 c4 \ 
+
+\break
+\time 3/4  
+\set Timing.measureLength = #(ly:make-moment 1 4)
+e4 |
+\set Timing.measureLength = #(ly:make-moment 3 4)
+e4 d c |
+d2 e4 |
+f2. |
+e2 \ e4 |
+d2 d4 |
+cis2 cis4 |
+d2. ~ |
+d2 \ e4 |
+e4 d c |
+d2 e4 |
+f2. |
+e2 \ e4 |
+d2 d4 |
+cis2 cis4 |
+d2. ~ |
+d2 \
+
+\break
+\time 4/4
+\set Timing.measureLength = #(ly:make-moment 1 4)
+e4 |
+\set Timing.measureLength = #(ly:make-moment 4 4)
+e4 c d e |
+f2 d4 \ d |
+d4 c c b |
+c2. \

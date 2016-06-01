@@ -1,0 +1,63 @@
+e4 |
+g4 a c a |
+a2 \ r4 c4 |
+c4 b a a |
+g2. \
+\break
+c4^\markup  "(3 mal)"  |
+c4 c b a |
+b4 a a \ a4 |
+a4 g a b |
+c4 a g4 \  
+\break      
+e4^\markup  \column  \line  "Heilig ist Gott"  \line  "(2 mal)"     |
+g4 a b b |
+a2. \  
+b4 |
+b4 b8 c d4^\markup  "Heilig"  a4 |
+a4 g a b |
+c4 a g4 \ 
+
+c4^\markup  "(6 mal)"  |
+c4 c b a |
+b4 a a \ a4 |
+a4 g a b |
+c4 a g4 \  
+\break
+a4^\markup  "(6 mal)"  |
+a4 a g b |
+b4 a a \ a |
+a4 g a8 b c4 |
+g4 g e \  
+f4^\markup  "Laß uns im Himmel hahen Teil"  |
+d4 f e d |
+e4 fis g4 \ g4 |
+g4 g a4. f8 |
+g4 f e c |
+d4 f e d |
+f4 d c4 \ g'4 |
+g4 g a4. f8 |
+g4 f e4 \ f4 |
+f4 f e d |
+f4 d c \ g' |
+g4 g a4. f8 |
+g4 f e4 \ e8 f |
+g4 a a a |
+c4 a a \ a4 |
+a4 g a8 b c4 |
+g4 g e4 \
+
+a4^\markup  "(3 mal)"  |
+a4 a g b |
+b4 b a \ a |
+a4 g a c |
+g4 g e \  
+\break
+f8^\markup  "Auf dich hoffen wir"  e8 |
+d4 f g a |
+g4 f e \ f |
+f4 g a g8 f |
+g4 f e \ g |
+e4 c d2 |
+e1 ~ |
+e1 \ |

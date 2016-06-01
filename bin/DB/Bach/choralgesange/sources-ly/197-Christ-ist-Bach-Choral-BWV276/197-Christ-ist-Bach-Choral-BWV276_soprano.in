@@ -1,0 +1,38 @@
+a4 |
+g4 a8 b c4 d |
+a2 \ a4 f8 g |
+a8 g f4 e8 d e4 |
+d2 \ r4 f |
+g4 g d c |
+f4 g a \ a8 g |
+f4 g a8 g f4 |
+e4 d e2 \ |
+d4 d d2 |
+d1 \ |
+
+\time 4/4
+a'4^\markup  "Wär er nicht erstanden"  a g a8 bes |
+c4 d a \ a |
+a8. g16 f8 g a g f4 |
+e8 d e4 d \ f |
+g4 g d c |
+f4 g a \ a |
+a8 g f8. g16 a4 f |
+e4 d e2 \ |
+d4 d d2 |
+d1 \ |
+
+\break
+\time 4/4
+\set Timing.measureLength = #(ly:make-moment 1 4)
+a'4^\markup  "Alleluja"  |
+\set Timing.measureLength = #(ly:make-moment 4 4)
+f4 c' a \ c8 bes |
+a4 g f \ a8 g |
+f4 e d \ f |
+g4 g d c |
+f4 g a \ a8 g |
+f4 g a f |
+e4 d e2 \ |
+d4 d d2 |
+d1 \ |

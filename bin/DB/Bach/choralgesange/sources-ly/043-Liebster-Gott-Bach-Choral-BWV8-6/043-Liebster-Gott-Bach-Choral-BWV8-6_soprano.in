@@ -1,0 +1,20 @@
+r4 b8 b e4 b |
+cis4 b a4. b16 a |
+gis4 fis r4 b8 a |
+gis4 cis8 b ais fis b4 ~ |
+b4 ais4  
+\alternative 
+b2 |  
+\set Timing.measureLength = #(ly:make-moment 2 4)
+b2 | 
+\set Timing.measureLength = #(ly:make-moment 4 4)
+r4 fis8 gis a4 gis |
+cis4. dis8 bis2 |
+r4 cis8 b ais4 b |
+b4 ais b fis8 fis |
+b4. a8 gis4 cis |
+bis4 cis2 bis4 |
+cis2 r4 e8 b! |
+cis4 gis8 a b4. a8 |
+gis4 fis8 e dis4 e4 ~ |
+e4 dis4 e2 \

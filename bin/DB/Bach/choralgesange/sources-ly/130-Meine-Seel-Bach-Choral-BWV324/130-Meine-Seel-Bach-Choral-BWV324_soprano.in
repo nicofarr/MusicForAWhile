@@ -1,0 +1,16 @@
+b2 d |
+b4 b b b |
+c2 b |
+a2 a |
+g1 \ |
+b2 d |
+\override NoteHead #'style = #'petrucci
+\set Timing.measureLength = #(ly:make-moment 16 4)
+a\breve  
+a\breve |
+\override NoteHead #'style = #'default
+\set Timing.measureLength = #(ly:make-moment 2 4)
+e2 |
+\set Timing.measureLength = #(ly:make-moment 4 4)
+g2 fis |
+e1 \ |

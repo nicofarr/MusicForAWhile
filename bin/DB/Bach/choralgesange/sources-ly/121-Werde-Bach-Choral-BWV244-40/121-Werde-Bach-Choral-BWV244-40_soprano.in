@@ -1,0 +1,17 @@
+cis4 
+d4 e e |
+d4 cis b b \ |
+cis4 d e d8 cis |
+b4 ~ b8 a a2 \ |  
+\alternative 
+\set Timing.measureLength = #(ly:make-moment 1 4)
+cis4 
+\set Timing.measureLength = #(ly:make-moment 4 4)
+b4 cis d8 cis d e | 
+cis4 cis b2 \ |
+d4 e fis e8 fis16 g |
+fis4 e8 d d2 \ |
+cis4 d e e |
+d4 cis b b \ |
+cis4 d e a,8 b |
+cis4 b8 a a4 a \ |

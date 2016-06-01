@@ -1,0 +1,22 @@
+b4 |
+ais4 b8 cis d4 e |
+d4 cis b \ b8 a |
+\break
+g4 a b8 a g4 |
+fis8 e fis4  
+\alternative 
+\set Timing.measureLength = #(ly:make-moment 1 4)
+e4 \  
+\set Timing.measureLength = #(ly:make-moment 2 4)
+e2 \ 
+\break
+\set Timing.measureLength = #(ly:make-moment 4 4)
+e8 fis g4 a e8 fis |
+g4 a b \ b |
+e4 d! e fis8 e |
+\break
+d4 cis b \ cis! |
+d8 c! b c d4 a |
+g4 fis e2 \ |
+b'4 a g fis |
+e2. \

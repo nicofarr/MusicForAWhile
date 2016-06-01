@@ -1,0 +1,20 @@
+bes4 |
+bes4 bes 
+bes4 c |
+aes4 g f4 \ c' |
+d4 c bes a!8 g |
+a4 g f4 \  
+\alternative 
+bes4 |
+bes4 bes 
+\set Timing.measureLength = #(ly:make-moment 1 4)
+f'4 | 
+\set Timing.measureLength = #(ly:make-moment 4 4)
+es4 d c bes |
+bes8 c d4 c4 \ d |
+es4 d c b |
+c2. \ f,4 |
+bes4 c d es |
+f4 es8 d c4 \ es |
+d4 c f bes,8 c |
+d4 c bes4 \
