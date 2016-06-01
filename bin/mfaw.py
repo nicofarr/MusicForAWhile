@@ -81,8 +81,8 @@ for (i,w) in enumerate(words):
          break
       alphabet[c] = True
 
-#for c in sorted(alphabet):
-   #print c
+for c in sorted(alphabet):
+   print c
 
 print("Alphabet length: "+str(len(alphabet)))
 
@@ -108,3 +108,18 @@ for s in state:
    if len(state[s]) == 0:
       term+=1
 print("Automata has "+str(len(state))+" states and "+str(term)+" terminals")
+
+def output_automata(fn):
+   global state
+   f = open(fn+".dot", "w")
+   f.write("digraph { \n")
+
+   for s in state:
+      for v in state[s]:
+         f.write(str(s)+" -> "+str(state[s][v])+'[label="'+v+'",weight="'+v+'"];\n')
+   f.write("}");
+   f.close()
+
+print("Outputing current automata on first.dot")
+output_automata("first")
+
