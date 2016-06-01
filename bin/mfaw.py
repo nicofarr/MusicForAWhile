@@ -123,3 +123,13 @@ def output_automata(fn):
 print("Outputing current automata on first.dot")
 output_automata("first")
 
+def word_to_lily(w):
+   s = ""
+   for c in w:
+      if c == "0":
+         return s
+      s += c+" "
+   assert(False)
+
+
+print(word_to_lily(words[0]))
